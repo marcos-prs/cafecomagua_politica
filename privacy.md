@@ -6,17 +6,16 @@ Esta Política de Privacidade descreve como Marco (desenvolvedor do aplicativo "
 
 Ao usar nosso App, você concorda com a coleta e uso de informações de acordo com esta política.
 
-═════════════════════════════════════════════════════════════
+
 1. COLETA E USO DE DADOS
-═════════════════════════════════════════════════════════════
 
 Nosso App foi projetado para coletar o mínimo de dados pessoais possível. As informações que coletamos são primariamente para fornecer e melhorar o serviço, e são gerenciadas através de serviços de terceiros confiáveis.
 
 Não coletamos diretamente informações de identificação pessoal como seu nome, endereço, ou número de telefone.
 
-═════════════════════════════════════════════════════════════
+
 2. DADOS COLETADOS POR SERVIÇOS DE TERCEIROS
-═════════════════════════════════════════════════════════════
+
 
 Nosso App utiliza serviços de terceiros que podem coletar informações usadas para identificá-lo e para fornecer funcionalidades essenciais, como anúncios e compras.
 
@@ -38,9 +37,9 @@ Abaixo estão os serviços que utilizamos e os links para suas respectivas polí
 • Dados de Diagnóstico (Crash Reports)
   Em caso de erro no App, podemos coletar dados anônimos de diagnóstico através dos serviços do Google Play Console. Isso inclui informações sobre o seu dispositivo e a falha ocorrida, com o único objetivo de corrigir bugs e melhorar a estabilidade do App.
 
-═════════════════════════════════════════════════════════════
+
 3. GERENCIAMENTO DE ANÚNCIOS PERSONALIZADOS
-═════════════════════════════════════════════════════════════
+
 
 Você tem controle sobre os anúncios que vê:
 
@@ -58,25 +57,25 @@ Você tem controle sobre os anúncios que vê:
 
 Ao revogar o consentimento, você ainda verá anúncios, mas eles não serão personalizados com base em seus interesses.
 
-═════════════════════════════════════════════════════════════
+
 4. COMPRAS NO APLICATIVO
-═════════════════════════════════════════════════════════════
+
 
 Quando você realiza uma compra no App (por exemplo, um dos pacotes "café de apoio"), a transação é processada de forma segura pelo Google Play Billing. 
 
 Não temos acesso a nenhuma informação financeira sua. Apenas recebemos a confirmação da compra pelo Google para que possamos liberar o recurso adquirido (como a remoção dos anúncios) no seu App.
 
-═════════════════════════════════════════════════════════════
+
 5. SEGURANÇA
-═════════════════════════════════════════════════════════════
+
 
 Valorizamos sua confiança em nos fornecer suas informações e nos esforçamos para usar meios comercialmente aceitáveis para protegê-las. 
 
 No entanto, lembre-se que nenhum método de transmissão pela internet ou método de armazenamento eletrônico é 100% seguro e confiável, e não podemos garantir sua segurança absoluta.
 
-═════════════════════════════════════════════════════════════
+
 6. PRIVACIDADE INFANTIL
-═════════════════════════════════════════════════════════════
+
 
 Nosso App não se destina a menores de 13 anos. Não coletamos intencionalmente informações de identificação pessoal de crianças com menos de 13 anos. 
 
@@ -84,25 +83,25 @@ Caso descubramos que uma criança com menos de 13 anos nos forneceu informaçõe
 
 Se você é pai ou responsável e está ciente de que seu filho nos forneceu informações pessoais, entre em contato conosco para que possamos tomar as medidas necessárias.
 
-═════════════════════════════════════════════════════════════
+
 7. ALTERAÇÕES A ESTA POLÍTICA DE PRIVACIDADE
-═════════════════════════════════════════════════════════════
+
 
 Podemos atualizar nossa Política de Privacidade de tempos em tempos. Portanto, aconselhamos que você revise esta página periodicamente para verificar quaisquer alterações. 
 
 Notificaremos sobre quaisquer alterações publicando a nova Política de Privacidade nesta página.
 
-═════════════════════════════════════════════════════════════
+
 8. CONTATO
-═════════════════════════════════════════════════════════════
+
 
 Se você tiver alguma dúvida ou sugestão sobre nossa Política de Privacidade, não hesite em nos contatar em:
 
 coffeesinn@gmail.com
 
-═════════════════════════════════════════════════════════════
+
 LINKS ÚTEIS
-═════════════════════════════════════════════════════════════
+
 
 • Gerenciar anúncios personalizados: https://adssettings.google.com/authenticated
 • Política de Privacidade do Google: https://policies.google.com/privacy
